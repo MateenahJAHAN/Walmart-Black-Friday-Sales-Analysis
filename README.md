@@ -197,5 +197,12 @@ walmart_data.csv — dataset (not included here, put your file)
 
 wallMart.pdf — solution export (your PDF)
 
+<!-- portfolio-navigation -->
+## Repository guide
 
+- **Code and notebooks** · [wallmart solution.pynb](wallmart%20solution.pynb)
+- **Data** · [walmart_data.csv](walmart_data.csv)
+- **Papers and reports** · [wallmart solution.pdf](reports/wallmart%20solution.pdf)
+
+<!-- /portfolio-navigation -->
 
